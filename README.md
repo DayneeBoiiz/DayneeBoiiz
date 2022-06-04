@@ -10,4 +10,4 @@
 
 ### Most Used Languages
 
-![top_languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SUYASHPATIL400&show_icons=true&theme=radical)
+![top_languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DayneeBoiiz&show_icons=true&theme=radical)
