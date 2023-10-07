@@ -29,7 +29,7 @@ Here are some of the projects I've worked on:
 
 - [messenger-chat-app](https://github.com/DayneeBoiiz/messenger-chat-app): This project is a real-time messenger clone that provides a modern and responsive user interface for messaging. It's built using Next.js 13 and TypeScript, making it efficient and type-safe.
 
-- [NestJS-Chat-Game-API-Server](git@github.com:DayneeBoiiz/NestJS-Chat-Game-API-Server.git): A powerful NestJS-based API server that serves as the backend for a chat application and a Pong game server. This server provides a variety of features including authentication, user management, friend lists, blocked friends, and various types of chat rooms.
+- [NestJS-Chat-Game-API-Server](https://github.com/DayneeBoiiz/NestJS-Chat-Game-API-Server): A powerful NestJS-based API server that serves as the backend for a chat application and a Pong game server. This server provides a variety of features including authentication, user management, friend lists, blocked friends, and various types of chat rooms.
 
 ### Let's Connect
 
