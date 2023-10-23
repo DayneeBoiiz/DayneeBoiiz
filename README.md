@@ -5,8 +5,7 @@
 I'm a passionate full-stack web developer with a love for coding and open source. Welcome to my GitHub profile! Here's a bit about me:
 
 - 📘 Learning: TypeScript <img src="https://img.icons8.com/color/24/000000/typescript.png" alt="TypeScript" />, JavaScript <img src="https://img.icons8.com/color/24/000000/javascript.png" alt="JavaScript" />, Flutter <img src="https://img.icons8.com/color/24/000000/flutter.png" alt="Flutter" />, Dart <img src="https://img.icons8.com/color/24/000000/dart.png" alt="Dart" />
-- 💼 Currently Working On: Building a Backend Solution with OpenAI API
-  - 📝 Project Description: I'm currently working on a backend project that harnesses the power of the OpenAI API to create innovative solutions. Stay tuned for more updates!
+- 💼 Currently Working On: Building a Discord Bot using Node.js
 - 🤝 Open Source Enthusiast
 - 💬 Ask Me About: Flutter, Dart, TypeScript, JavaScript, or anything else you're curious about!
 - 📧 How to Reach Me: [sayar@student.1337.ma](mailto:sayar@student.1337.ma)
