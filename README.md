@@ -30,7 +30,7 @@ Here are some of the projects I've worked on:
 
 - [NestJS-Chat-Game-API-Server](https://github.com/DayneeBoiiz/NestJS-Chat-Game-API-Server): A powerful NestJS-based API server that serves as the backend for a chat application and a Pong game server. This server provides a variety of features including authentication, user management, friend lists, blocked friends, and various types of chat rooms.
 
-- [GitBot]([https://github.com/DayneeBoiiz/GitBot]): GitBot is your trusty sidekick for all things GitHub within your Discord server. Whether you're a developer, a project manager, or simply someone interested in tracking GitHub repositories, GitBot has got you covered. This versatile bot streamlines GitHub-related tasks and keeps your community informed.
+- [GitBot](https://github.com/DayneeBoiiz/GitBot): GitBot is your trusty sidekick for all things GitHub within your Discord server. Whether you're a developer, a project manager, or simply someone interested in tracking GitHub repositories, GitBot has got you covered. This versatile bot streamlines GitHub-related tasks and keeps your community informed.
 
 ### Let's Connect
 
