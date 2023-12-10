@@ -20,7 +20,7 @@ I'm a passionate full-stack web developer with a love for coding and open source
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dayneeboiiz&show_icons=true&count_private=true&hide=contribs&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaoutar-12&show_icons=true&count_private=true&hide=contribs&theme=dark)
 
 ### Projects
 
