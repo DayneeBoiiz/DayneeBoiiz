@@ -32,6 +32,8 @@ Here are some of the projects I've worked on:
 
 - [GitBot](https://github.com/DayneeBoiiz/GitBot): GitBot is your trusty sidekick for all things GitHub within your Discord server. Whether you're a developer, a project manager, or simply someone interested in tracking GitHub repositories, GitBot has got you covered. This versatile bot streamlines GitHub-related tasks and keeps your community informed.
 
+- [Real_Appraisel_server](https://github.com/DayneeBoiiz/Real_Appraisel_server): Real Appraisel is a full-stack application built with Nest.js that provides functionalities for user authentication, document processing, and interaction with OpenAI services. The application allows users to register, log in, upload PDF documents, ask questions related to the uploaded documents using OpenAI, and generate reports.
+
 ### Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/saad-ayar/)
